@@ -13,3 +13,4 @@ for(let i = 0; i < vetorAdiciona.length; i++){
 }
 
 console.log(vetorPilha);
+console.log(vetorAdiciona);
